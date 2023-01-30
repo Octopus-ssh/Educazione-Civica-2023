@@ -140,7 +140,7 @@ img {
   }
   
   p {
-     margin-left: 90px;
+     margin-left: 50px;
      color: lightgreen;
      margin-top: 50px;
      font-size: 17px;
@@ -150,8 +150,8 @@ img {
   
   img {
     margin-top: 25px;
-    margin-left: 90px;
-    width: 270px;
+    margin-left: 50px;
+    width: 290px;
     height: 200px;
   }
 }
